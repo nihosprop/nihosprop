@@ -14,4 +14,5 @@ graph LR
     A --> D[Docker]
     A --> E[PostgreSQL]
     A --> F[logging]
+    A --> G[Cron]
     E --> AB[SQLAlchemyORM]
