@@ -1,6 +1,6 @@
 # Привет, я nihosprop! 👋
 
-##🚀 **Специализация**: Python-разработчик
+🚀 **Специализация**: Python-разработчик
 
 ## 🔥 Активные проекты
 - [BotStepikGuard](https://github.com/nihosprop/bot_stepik_guard.git) - Умный мониторинг комментариев на Stepik
