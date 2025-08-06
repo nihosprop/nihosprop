@@ -1,16 +1,14 @@
-## Hi there 👋
+# Привет, я [Ваше имя]! 👋
 
-<!--
-**nihosprop/nihosprop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Специализация**: Python-разработка, боты и автоматизация  
 
-Here are some ideas to get you started:
+## 🔥 Активные проекты
+- [BotStepikGuard](https://github.com/yourname/BotStepikGuard) - Умный мониторинг комментариев на Stepik
+- [Другой проект](ссылка) - Краткое описание
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Технологический стек
+```mermaid
+graph LR
+    A[Python] --> B[Aiogram]
+    A --> C[Redis]
+    A --> D[Docker]
