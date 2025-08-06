@@ -1,7 +1,12 @@
 # Hi, I nihosprop! 👋
 
-🚀 **Specializing**: Python-Developer:
+🚀 **Specializing**: Python-Developer
+
 [My Telegram](https://t.me/Shinobiwin)
+
+[My Stepik prifile](https://stepik.org/users/632745189/profile)
+
+
 
 ## 🔥 Active projects
 - [BotStepikGuard](https://github.com/nihosprop/bot_stepik_guard.git) - Smart monitoring of comments on Stepik
