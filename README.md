@@ -11,6 +11,7 @@
 graph LR
     A[Python] --> B[Aiogram]
     B --> BA[Redis FSM]
+    C --> BA[Redis FSM]
     A --> C[Redis]
     A --> D[Docker]
     A --> E[PostgreSQL]
