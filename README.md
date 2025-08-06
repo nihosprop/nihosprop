@@ -13,4 +13,5 @@ graph LR
     A --> C[Redis]
     A --> D[Docker]
     A --> E[PostgreSQL]
+    A --> F[logging]
     E --> AB[SQLAlchemyORM]
