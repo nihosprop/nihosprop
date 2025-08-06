@@ -1,12 +1,13 @@
-# Привет, я nihosprop! 👋
+# Hi, I nihosprop! 👋
 
-🚀 **Специализация**: Python-разработчик
+🚀 **Specializing**: Python-Developer
+[My Telegram](https://t.me/Shinobiwin)
 
-## 🔥 Активные проекты
-- [BotStepikGuard](https://github.com/nihosprop/bot_stepik_guard.git) - Умный мониторинг комментариев на Stepik
-- [Bot_Get_Cert](https://github.com/nihosprop/bot_get_cert.git) - Умная генрация сертификатов от команды курсов, опубликованных на Stepik
+## 🔥 Active projects
+- [BotStepikGuard](https://github.com/nihosprop/bot_stepik_guard.git) - Smart monitoring of comments on Stepik
+- [Bot_Get_Cert](https://github.com/nihosprop/bot_get_cert.git) - Smart generation of certificates from a team of courses published on Stepik
 
-## 🛠️ Технологический стек
+## 🛠️ Technological stack
 ```mermaid
 graph LR
     A[Python] --> B[Aiogram]
