@@ -1,6 +1,6 @@
 # Hi, I nihosprop! 👋
 
-🚀 **Specializing**: Python-Developer
+🚀 **Specializing**: Python-Developer:
 [My Telegram](https://t.me/Shinobiwin)
 
 ## 🔥 Active projects
