@@ -9,7 +9,8 @@
 
 
 ## 🔥 Active projects
-- [BotStepikGuard](https://github.com/nihosprop/bot_stepik_guard.git) - Smart monitoring of comments on Stepik
+- [Bot Stepik Guard](https://github.com/nihosprop/bot_stepik_guard.git) - 
+  Smart monitoring of comments on Stepik
 - [Bot_Get_Cert](https://github.com/nihosprop/bot_get_cert.git) - Smart generation of certificates from a team of courses published on Stepik
 
 ## 🛠️ Technological stack
