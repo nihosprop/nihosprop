@@ -4,7 +4,7 @@
 
 [My Telegram](https://t.me/Shinobiwin)
 
-[My Stepik prifile](https://stepik.org/users/632745189/profile)
+[My Stepik profile](https://stepik.org/users/632745189/profile)
 
 
 
