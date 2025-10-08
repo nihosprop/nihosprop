@@ -3,8 +3,8 @@
 🚀 **Specializing**: Python-Developer
 
 <div style="display:flex; justify-content:center;">
-  <img height="200" src="https://github-readme-stats.vercel.app/api?username=nihosprop&theme=github_dark" />
-  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=nihosprop&layout=compact&langs_count=8&card_width=320&theme=github_dark" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=nihosprop&theme=github_dark" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs?username=nihosprop&layout=compact&langs_count=8&card_width=320&theme=github_dark" />
 </div>
 
 [My Telegram](https://t.me/Shinobiwin)
