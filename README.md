@@ -4,15 +4,14 @@
 
 <div style="display:flex; justify-content:center;">
   <img height="200" src="https://github-readme-stats.vercel.app/api?username=nihosprop&theme=github_dark&show_icons=true" />
-  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=nihosprop&layout=compact&langs_count=8&theme=github_dark" />
+  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=nihosprop&layout=compact&langs_count=8&card_width=320&theme=github_dark" />
 </div>
+
 
 [//]: # (<div style="display:grid; grid-template-columns: 1fr 1fr; gap: 10px; width: 100%;">)
 [//]: # (  <img height="200" style="width: 100%;" src="https://github-readme-stats.vercel.app/api?username=nihosprop&theme=github_dark&show_icons=true" />)
 [//]: # (  <img height="200" style="width: 100%;" src="https://github-readme-stats.vercel.app/api/top-langs?username=nihosprop&layout=compact&langs_count=8&theme=github_dark" />)
 [//]: # (</div>)
-
-[//]: # (![Anurag's GitHub stats]&#40;https://github-readme-stats.vercel.app/api?username=nihosprop&theme=github_dark&show_icons=true&#41;)
 
 [My Telegram](https://t.me/Shinobiwin)
 
