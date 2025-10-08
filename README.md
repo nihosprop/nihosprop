@@ -2,20 +2,19 @@
 
 🚀 **Specializing**: Python-Developer
 
-[//]: # (<div style="display:flex; justify-content:center;">)
-[//]: # ()
-[//]: # (  <img height="200" src="https://github-readme-stats.vercel.app/api?username=nihosprop&theme=github_dark&show_icons=true" />)
-[//]: # (  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=nihosprop&layout=compact&langs_count=8&card_width=320&theme=github_dark" />)
-[//]: # (</div>)
-
-<div style="display: flex; flex-wrap: nowrap; gap: 20px; justify-content: center; align-items: flex-start;">
-  <div style="flex: 0 0 auto;">
-    <img height="200" src="https://github-readme-stats.vercel.app/api?username=nihosprop&theme=github_dark&show_icons=true" />
-  </div>
-  <div style="flex: 0 0 auto;">
-    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=nihosprop&layout=compact&langs_count=8&theme=github_dark" />
-  </div>
+<div style="display:flex; justify-content:center;">
+  <img height="200" src="https://github-readme-stats.vercel.app/api?username=nihosprop&theme=github_dark&card_width=320show_icons=true" />
+  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=nihosprop&layout=compact&langs_count=8&card_width=320&theme=github_dark" />
 </div>
+
+[//]: # (<div style="display: flex; flex-wrap: nowrap; gap: 20px; justify-content: center; align-items: flex-start;">)
+[//]: # (  <div style="flex: 0 0 auto;">)
+[//]: # (    <img height="200" src="https://github-readme-stats.vercel.app/api?username=nihosprop&theme=github_dark&show_icons=true" />)
+[//]: # (  </div>)
+[//]: # (  <div style="flex: 0 0 auto;">)
+[//]: # (    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=nihosprop&layout=compact&langs_count=8&theme=github_dark" />)
+[//]: # (  </div>)
+[//]: # (</div>)
 
 [My Telegram](https://t.me/Shinobiwin)
 
