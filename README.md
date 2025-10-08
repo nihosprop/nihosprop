@@ -21,8 +21,7 @@
 
 ## 🛠️ Technological stack
 <p align="left">
-  <a href="https://github.com/nihosprop"><img src="https://skillicons.
-dev/icons?i=python,linux,github,docker,git,redis,postgres,pycharm,bots"></a>
+  <a href="https://github.com/nihosprop"><img src="https://skillicons.dev/icons?i=python,linux,github,docker,git,redis,postgres,pycharm,bots"></a>
 </p>
 
 ```mermaid
