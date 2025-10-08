@@ -7,6 +7,7 @@
   <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=nihosprop&layout=compact&langs_count=8&custom_title=Languages&text_bold=false&hide_rank=true&theme=github_dark" />
 </div>
 
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=shinobiwin)](https://github.com/nihosprop/github-readme-stats)
 
 [My Telegram](https://t.me/Shinobiwin)
 
