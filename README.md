@@ -5,9 +5,10 @@
 <div style="display:flex; justify-content:center;">
   <img height="200" src="https://github-readme-stats.vercel.app/api?username=nihosprop&theme=github_dark&custom_title=Stats&text_bold=false&show_icons=true&rank_icon=github" />
   <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=nihosprop&layout=compact&langs_count=8&custom_title=Languages&text_bold=false&hide_rank=true&theme=github_dark" />
+  <img height="200" src="https://github-readme-stats.vercel.app/api/wakatime?username=shinobiwin&cache_seconds=1800&theme=github_dark" />
 </div>
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=shinobiwin&cache_seconds=1800)](https://github.com/nihosprop/github-readme-stats)
+[//]: # ([![Harlok's WakaTime stats]&#40;https://github-readme-stats.vercel.app/api/wakatime?username=shinobiwin&cache_seconds=1800&#41;]&#40;https://github.com/nihosprop/github-readme-stats&#41;)
 
 [My Telegram](https://t.me/Shinobiwin)
 
