@@ -1,6 +1,6 @@
 # Hi, I nihosprop! 👋
 
-🚀 **Python-Developer**: [My Telegram](https://t.me/Shinobiwin) | [My Stepik profile](https://stepik.org/users/632745189/profile)
+🚀 **Python-Developer** 👉 [My Telegram](https://t.me/Shinobiwin) | [My Stepik](https://stepik.org/users/632745189/profile)
 
 <div style="display:flex; justify-content:center;">
   <img height="100" src="https://github-readme-stats.vercel.app/api?username=nihosprop&theme=github_dark&custom_title=Stats&text_bold=false&show_icons=true&rank_icon=github" />
