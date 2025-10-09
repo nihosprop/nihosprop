@@ -1,6 +1,6 @@
 # Hi, I nihosprop! 👋
 
-🚀 **Specializing**: Python-Developer
+🚀 **Python-Developer**: [My Telegram](https://t.me/Shinobiwin) | [My Stepik profile](https://stepik.org/users/632745189/profile)
 
 <div style="display:flex; justify-content:center;">
   <img height="100" src="https://github-readme-stats.vercel.app/api?username=nihosprop&theme=github_dark&custom_title=Stats&text_bold=false&show_icons=true&rank_icon=github" />
@@ -9,13 +9,6 @@
 </div>
 
 [//]: # ([![Harlok's WakaTime stats]&#40;https://github-readme-stats.vercel.app/api/wakatime?username=shinobiwin&cache_seconds=1800&#41;]&#40;https://github.com/nihosprop/github-readme-stats&#41;)
-
-[My Telegram](https://t.me/Shinobiwin)
-
-[My Stepik profile](https://stepik.org/users/632745189/profile)
-
-
-
 ## 🔥 Active projects
 - [Bot Stepik Guard](https://github.com/nihosprop/bot_stepik_guard.git) - 
   Smart monitoring of comments on Stepik
