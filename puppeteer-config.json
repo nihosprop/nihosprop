@@ -1,3 +1,16 @@
 {
-  "args": ["--no-sandbox"]
+  "args": ["--no-sandbox"],
+  "mermaid": {
+    "theme": "default",
+    "themeVariables": {
+      "background": "transparent",
+      "primaryColor": "#f0f0f0",
+      "primaryTextColor": "#333",
+      "primaryBorderColor": "#7C0000",
+      "lineColor": "#F6B17A",
+      "secondaryColor": "#006100",
+      "tertiaryColor": "#fff"
+    },
+    "themeCSS": ".node rect { fill: rgba(200, 200, 200, 0.1); }"
+  }
 }
