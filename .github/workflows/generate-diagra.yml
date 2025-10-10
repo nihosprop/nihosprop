@@ -1,4 +1,4 @@
-name: Generate Mermaid Diagram
+name: Generate Mermaid SVG
 
 on:
   push:
@@ -18,7 +18,7 @@ jobs:
         run: |
           npm install -g @mermaid-js/mermaid-cli
 
-      - name: Generate PNG from Mermaid
+      - name: Generate SVG from Mermaid
         run: |
           mkdir -p assets
           mmdc -i diagram.mmd -o assets/tech-stack.svg
@@ -27,6 +27,7 @@ jobs:
         run: |
           git config user.name "GitHub Action"
           git config user.email "action@github.com"
-          git add assets/tech-stack.png
-          git commit -m "Auto-update tech stack diagram"
+          git add assets/tech-stack.svg
+          git commit -m "Auto-update tech stack diagram (SVG)"
           git push
+
