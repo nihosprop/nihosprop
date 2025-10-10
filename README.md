@@ -19,19 +19,3 @@
 </p>
 
 ![Tech Stack](assets/tech-stack.svg)
-
-
-[//]: # (```mermaid)
-[//]: # (graph LR)
-[//]: # (    A[Python] --> B[Aiogram])
-[//]: # (    B --> BA[Redis FSM])
-[//]: # (    C --> BA[Redis FSM])
-[//]: # (    A --> C[Redis])
-[//]: # (    A --> D[Docker])
-[//]: # (    D --> AD[Dockerfile])
-[//]: # (    D --> ADA[DockerHub])
-[//]: # (    D --> DB[docker-compose])
-[//]: # (    A --> E[PostgreSQL])
-[//]: # (    E --> AB[SQLAlchemyORM])
-[//]: # (    A --> F[logging])
-[//]: # (    A --> G[Cron])
