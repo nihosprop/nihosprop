@@ -1,0 +1,32 @@
+name: Generate Mermaid Diagram
+
+on:
+  push:
+    paths:
+      - diagram.mmd
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Install mermaid-cli
+        run: |
+          npm install -g @mermaid-js/mermaid-cli
+
+      - name: Generate PNG from Mermaid
+        run: |
+          mkdir -p assets
+          mmdc -i diagram.mmd -o assets/tech-stack.png
+
+      - name: Commit diagram
+        run: |
+          git config user.name "GitHub Action"
+          git config user.email "action@github.com"
+          git add assets/tech-stack.png
+          git commit -m "Auto-update tech stack diagram"
+          git push

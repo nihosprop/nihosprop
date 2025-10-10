@@ -18,17 +18,20 @@
   <a href="https://github.com/nihosprop"><img src="https://skillicons.dev/icons?i=python,linux,github,docker,git,redis,postgres,pycharm,bots"></a>
 </p>
 
-```mermaid
-graph LR
-    A[Python] --> B[Aiogram]
-    B --> BA[Redis FSM]
-    C --> BA[Redis FSM]
-    A --> C[Redis]
-    A --> D[Docker]
-    D --> AD[Dockerfile]
-    D --> ADA[DockerHub]
-    D --> DB[docker-compose]
-    A --> E[PostgreSQL]
-    E --> AB[SQLAlchemyORM]
-    A --> F[logging]
-    A --> G[Cron]
+![Tech Stack](./assets/tech-stack.png)
+
+
+[//]: # (```mermaid)
+[//]: # (graph LR)
+[//]: # (    A[Python] --> B[Aiogram])
+[//]: # (    B --> BA[Redis FSM])
+[//]: # (    C --> BA[Redis FSM])
+[//]: # (    A --> C[Redis])
+[//]: # (    A --> D[Docker])
+[//]: # (    D --> AD[Dockerfile])
+[//]: # (    D --> ADA[DockerHub])
+[//]: # (    D --> DB[docker-compose])
+[//]: # (    A --> E[PostgreSQL])
+[//]: # (    E --> AB[SQLAlchemyORM])
+[//]: # (    A --> F[logging])
+[//]: # (    A --> G[Cron])
