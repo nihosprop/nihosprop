@@ -1,16 +1,16 @@
 {
   "args": ["--no-sandbox"],
   "mermaid": {
-    "theme": "default",
+    "theme": "base",
     "themeVariables": {
       "background": "transparent",
-      "primaryColor": "#f0f0f0",
-      "primaryTextColor": "#333",
-      "primaryBorderColor": "#7C0000",
-      "lineColor": "#F6B17A",
-      "secondaryColor": "#006100",
-      "tertiaryColor": "#fff"
+      "primaryColor": "#0d1117",
+      "primaryTextColor": "#c9d1d9",
+      "primaryBorderColor": "#30363d",
+      "lineColor": "#58a6ff",
+      "secondaryColor": "#0c2d6b",
+      "tertiaryColor": "#0c2d6b"
     },
-    "themeCSS": ".node rect { fill: rgba(200, 200, 200, 0.1); }"
+    "themeCSS": "@media (prefers-color-scheme: dark) { .node rect { fill: #0d1117; } } @media (prefers-color-scheme: light) { .node rect { fill: #f6f8fa; } } .node text { fill: #c9d1d9; }"
   }
 }
