@@ -1,7 +1,7 @@
 {
   "args": ["--no-sandbox"],
   "mermaid": {
-    "theme": "base",
+    "theme": "dark",
     "themeVariables": {
       "background": "transparent",
       "primaryColor": "#0d1117",
@@ -11,6 +11,6 @@
       "secondaryColor": "#0c2d6b",
       "tertiaryColor": "#0c2d6b"
     },
-    "themeCSS": "@media (prefers-color-scheme: dark) { .node rect { fill: #0d1117; } } @media (prefers-color-scheme: light) { .node rect { fill: #f6f8fa; } } .node text { fill: #c9d1d9; }"
+    "themeCSS": ".node rect { fill: #0d1117; } .node text { fill: #c9d1d9; } svg { background-color: transparent !important; }"
   }
 }
