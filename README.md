@@ -18,4 +18,4 @@
   <a href="https://github.com/nihosprop"><img src="https://skillicons.dev/icons?i=python,linux,github,docker,git,redis,postgres,pycharm,bots"></a>
 </p>
 
-![Tech Stack](assets/tech-stack.svg)
+![Tech Stack](./assets/tech-stack.svg)
