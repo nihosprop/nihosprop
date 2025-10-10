@@ -9,10 +9,16 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+    
+    permissions:
+      contents: write  # This is required to push changes
 
     steps:
       - name: Checkout repo
         uses: actions/checkout@v3
+        with:
+          token: ${{ secrets.GEN_DIAGRAM }}
+          fetch-depth: 0  # This fetches all history for all branches and tags
 
       - name: Install mermaid-cli
         run: |
@@ -23,13 +29,15 @@ jobs:
           mkdir -p assets
           mmdc -i diagram.mmd -o assets/tech-stack.svg -p puppeteer-config.json
 
-      - name: Push changes
+      - name: Commit and push changes
         run: |
-          git config user.name "GitHub Action"
-          git config user.email "action@github.com"
-          git remote set-url origin https://x-access-token:${{ secrets.GH_PAT }}@github.com/${{ github.repository }}
+          git config user.name "GitHub Actions Bot"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
           git add assets/tech-stack.svg
-          git commit -m "Auto-update tech stack diagram (SVG)"
-          git push
+          
+          # Only commit if there are changes
+          git diff --quiet && git diff --staged --quiet || \
+            (git commit -m "Auto-update tech stack diagram (SVG)" && \
+             git push origin HEAD:main)
       
 
