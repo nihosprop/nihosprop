@@ -14,8 +14,5 @@
 - [Bot Get Cert](https://github.com/nihosprop/bot_get_cert.git) - Smart generation of certificates from a team of courses published on Stepik
 
 ## 🛠️ Technological stack
-<p align="left">
-  <a href="https://github.com/nihosprop"><img src="https://skillicons.dev/icons?i=python,linux,github,docker,git,redis,postgres,pycharm,bots"></a>
-</p>
 
 ![Tech Stack](./assets/tech-stack.svg)

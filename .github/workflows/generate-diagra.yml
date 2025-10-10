@@ -28,6 +28,13 @@ jobs:
         run: |
           mkdir -p assets
           mmdc -i diagram.mmd -o assets/tech-stack.svg -p puppeteer-config.json
+          
+          # Force transparent background in SVG
+          sed -i 's/background-color:white/background-color:transparent/g' assets/tech-stack.svg
+          sed -i 's/"background":"#ffffff"/"background":"transparent"/g' assets/tech-stack.svg
+          sed -i 's/"background":"#FFFFFF"/"background":"transparent"/g' assets/tech-stack.svg
+          sed -i 's/background-color:#ffffff/background-color:transparent/g' assets/tech-stack.svg
+          sed -i 's/background-color:#FFFFFF/background-color:transparent/g' assets/tech-stack.svg
 
       - name: Commit and push changes
         run: |
