@@ -21,7 +21,7 @@ jobs:
       - name: Generate SVG from Mermaid
         run: |
           mkdir -p assets
-          mmdc -i diagram.mmd -o assets/tech-stack.svg
+          mmdc -i diagram.mmd -o assets/tech-stack.svg --no-sandbox
 
       - name: Commit diagram
         run: |
