@@ -2,16 +2,19 @@
 
 🚀 **Python-Developer** 👉 [My Telegram](https://t.me/Shinobiwin) | [My Stepik](https://stepik.org/users/632745189/profile)
 
-<div style="display:flex; justify-content:center;">
-  <img height="120" src="https://github-readme-stats.vercel.app/api/top-langs?username=nihosprop&layout=compact&langs_count=8&custom_title=Languages&text_bold=false&hide_rank=true&theme=github_dark" />
-  <img height="120" src="https://github-readme-stats.vercel.app/api/wakatime?username=shinobiwin&layout=compact&card_width=250&theme=github_dark" />
-</div>
-
-[//]: # ([![Harlok's WakaTime stats]&#40;https://github-readme-stats.vercel.app/api/wakatime?username=shinobiwin&cache_seconds=1800&#41;]&#40;https://github.com/nihosprop/github-readme-stats&#41;)
 ## 🔥 Active projects
 - [Bot Stepik Guard](https://github.com/nihosprop/bot_stepik_guard.git) - Smart monitoring of comments on Stepik
 - [Bot Get Cert](https://github.com/nihosprop/bot_get_cert.git) - Smart generation of certificates from a team of courses published on Stepik
 
 ## 🛠️ Technological stack
 
-![Tech Stack](./assets/tech-stack.svg)
+<div align="center">
+
+  <a href="#"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/></a>
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/></a>
+
+</div>

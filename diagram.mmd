@@ -1,8 +1,8 @@
 graph TB
     A[Python] --> B[Aiogram]
     B --> BA[Redis FSM]
-    C --> BA[Redis FSM]
     A --> C[Redis]
+    C --> BA[Redis FSM]
     A --> D[PostgreSQL]
     D --> F[SQLAlchemy]
     A --> E[asyncio]
