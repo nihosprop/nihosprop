@@ -1,4 +1,5 @@
 # Hi, I nihosprop! 👋
+[![GitHub Streak](https://streak-stats.demolab.com?user=nihosprop&theme=windows-dark)](https://git.io/streak-stats)
 
 
 🚀 **Python-Developer** 👉 [My Telegram](https://t.me/Shinobiwin) | [My Stepik](https://stepik.org/users/632745189/profile)
@@ -24,4 +25,5 @@
   <a href="https://docs.astral.sh/ruff/"><img src="https://img.shields.io/badge/Ruff-2DCC70?style=for-the-badge&logo=ruff&logoColor=white" alt="Ruff" /></a>
   <a href="https://docs.astral.sh/uv/"><img src="https://img.shields.io/badge/Uv-9C84FF?style=for-the-badge&logo=uv&logoColor=white" alt="Uv" /></a>
   <a href="https://docs.astral.sh/ty/"><img src="https://img.shields.io/badge/Ty-007ACC?style=for-the-badge&logo=ty&logoColor=white" alt="Ty" /></a>
+  <a href=""><img src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green" alt="Ty" /></a>
 </div>
