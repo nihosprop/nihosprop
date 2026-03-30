@@ -21,4 +21,7 @@
   <a href="https://docs.aiogram.dev/en/v3.26.0/"><img src="https://img.shields.io/badge/Aiogram 3+-4479A1?style=for-the-badge&logo=aiogram&logoColor=white" alt="Aiogram" /></a>
   <a href="https://github.com/Tishka17/aiogram_dialog"><img src="https://img.shields.io/badge/Aiogram Dialog-4479A1?style=for-the-badge&logo=aiogram_dialog&logoColor=white" alt="Aiogram" /></a>
   <a href="https://docs.sqlalchemy.org/en/20/orm/"><img src="https://img.shields.io/badge/SQLAlchemy-009688?style=for-the-badge&logo=sqlalchemy&logoColor=white" alt="SQLAlchemy" /></a>
+  <a href="https://docs.astral.sh/ruff/"><img src="https://img.shields.io/badge/Ruff-2DCC70?style=for-the-badge&logo=ruff&logoColor=white" alt="Ruff" /></a>
+  <a href="https://docs.astral.sh/uv/"><img src="https://img.shields.io/badge/Uv-9C84FF?style=for-the-badge&logo=uv&logoColor=white" alt="Uv" /></a>
+  <a href="https://docs.astral.sh/ty/"><img src="https://img.shields.io/badge/Ty-007ACC?style=for-the-badge&logo=ty&logoColor=white" alt="Ty" /></a>
 </div>
