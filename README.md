@@ -1,6 +1,7 @@
 # Hi, I nihosprop! 👋
 [![GitHub Streak](https://streak-stats.demolab.com?user=nihosprop&theme=windows-dark)](https://git.io/streak-stats)
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=nihosprop&theme=dark)](https://git.io/streak-stats)
 
 🚀 **Python-Developer** 👉 [My Telegram](https://t.me/Shinobiwin) | [My Stepik](https://stepik.org/users/632745189/profile)
 
